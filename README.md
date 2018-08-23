@@ -1,4 +1,10 @@
 # The Variable-Value approach to Programming
 The Variable-Value approach uses variables for changing state and values for understanding states
 
-Eventually this website will provide access to the projects associated with the Variable-Value approach. Very soon now, I will post some test results from executable specifications that will show how far along one project is.
+Eventually this website will provide access to the projects associated with the Variable-Value approach.
+
+For now, here are the test results for the variable names in the TrueJ language, to give you an idea of the direction that the project is headed. There is also a review of other related work and references at the bottom of the page.
+
+## A Recent Executable Specification Test Results
+
+[Value Names](https://variable-value.github.io/ValueName/)
