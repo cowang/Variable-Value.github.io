@@ -11,3 +11,6 @@ project is headed. The formatting is done by Cucumber; we'll clean that up later
 
 ## Results from a Recent Executable Specification Test
 [Value Names](https://variable-value.github.io/ValueName/)
+
+## Results from a Recent Test of the Prover's Executable Specification
+[Prover Test Results](https://variable-value.github.io/target/)
