@@ -9,7 +9,7 @@ The TrueJ repository is at
 ## The Executable Specifications
 
 Here are recent test results from the executable specifications for TrueJ, to give you an idea of the direction that the 
-project is headed. I will update this from time to time as we make significant progress. Unfortunately, the formatting for the tests is the default generated from Cucumber, and we'll need to clean that up later. There is a review of other related work and references at the bottom of the Value Names Feature page.
+project is headed. I will update this from time to time as we make significant progress. Unfortunately, the formatting for the tests is hard to read; it is the default that is generated from Cucumber, and we'll need to clean that up later. There is a review of other related work and references at the bottom of the Value Names Feature page.
 
 ### Results from a Recent Executable Specification Test
 [Value Names](https://variable-value.github.io/ValueName/)
